@@ -2,6 +2,6 @@
   "name": "project",
   "private": true,
   "dependencies": {
-    "react": "^16.6.1",
+    "react": "^16.6.1"
   }
 }
