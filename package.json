@@ -1,5 +1,7 @@
 {
   "name": "project",
+  "version": "0.0.1",
+  "main": "main.js",
   "private": true,
   "dependencies": {
     "react": "^16.8.4",
